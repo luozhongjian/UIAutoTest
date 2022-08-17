@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="SaaS">
+    <env>
+        <BP>
+            <addr>http://192.168.0.58:3100/#/login?redirect=/login/hhh</addr>
+            <username>admin</username>
+            <password>123456</password>
+        </BP>
+    </env>
+
+</project>
