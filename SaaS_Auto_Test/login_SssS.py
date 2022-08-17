@@ -38,10 +38,10 @@ def login():
     time.sleep(2)
     driver.find_element(By.XPATH, "//span[text()='立即登录']").click()
 
-    time.sleep(5)
+    time.sleep(6)
 
 
 if __name__ == '__main__':
 
-    #login()
+    login()
 
